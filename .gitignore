@@ -10,5 +10,10 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# 배포 패키지 (팀원용, git 불필요)
+# 배포 패키지 및 발표 자료
 에네레기파_캡스톤디자인2_전체패키지.zip
+에네레기파_캡스톤디자인2_최종발표.pptx
+make_ppt_final.py
+실행방법.md
+웹_대시보드_시연_대본.txt
+notebooks/_구버전/
